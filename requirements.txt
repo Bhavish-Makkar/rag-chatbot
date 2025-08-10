@@ -1,0 +1,13 @@
+tiktoken 
+pypdf 
+langchain 
+langchain-community 
+chromadb 
+sentence-transformers
+groq
+dotenv
+fastapi
+uvicorn
+streamlit
+requests 
+pydantic
