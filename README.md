@@ -40,7 +40,7 @@ It allows you to query a pre-built knowledge base and get precise, context-aware
 
 1️ **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/rag-chatbot.git
+git clone https://github.com/Bhavish-Makkar/rag-chatbot
 cd rag-chatbot
 ```
 
